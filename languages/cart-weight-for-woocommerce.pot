@@ -1,0 +1,319 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-01-22 16:50+0530\n"
+"PO-Revision-Date: 2019-03-11 16:42+0530\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_html__;esc_html;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/class-cart-weight-for-woocommerce-admin.php:104
+msgid "DotStore Plugins"
+msgstr ""
+
+#: admin/class-cart-weight-for-woocommerce-admin.php:119
+#: cart-weight-for-woocommerce.php:91
+msgid "Cart Weight for WooCommerce"
+msgstr ""
+
+#: admin/class-cart-weight-for-woocommerce-admin.php:171
+msgid "Weight"
+msgstr ""
+
+#: admin/class-cart-weight-for-woocommerce-admin.php:172
+msgid "Cart weight is"
+msgstr ""
+
+#: admin/class-cart-weight-for-woocommerce-admin.php:174
+msgid "Total weight"
+msgstr ""
+
+#: admin/class-cart-weight-for-woocommerce-admin.php:210
+msgid "Settings has been saved."
+msgstr ""
+
+#: admin/class-cart-weight-for-woocommerce-admin.php:221
+msgid "Showcase weight on checkout process"
+msgstr ""
+
+#: admin/class-cart-weight-for-woocommerce-admin.php:233
+msgid "Active to showcase total cart weight on cart and checkout page after total amount."
+msgstr ""
+
+#: admin/class-cart-weight-for-woocommerce-admin.php:241
+msgid "Showcase total cart weight notice"
+msgstr ""
+
+#: admin/class-cart-weight-for-woocommerce-admin.php:253
+msgid ""
+"Showcase total cart weight after adding product to the cart in product detail page."
+msgstr ""
+
+#: admin/class-cart-weight-for-woocommerce-admin.php:261
+msgid "Custom label for total cart weight"
+msgstr ""
+
+#: admin/class-cart-weight-for-woocommerce-admin.php:270
+msgid "This custom label showcase on cart and checkout page during the checkout process."
+msgstr ""
+
+#: admin/class-cart-weight-for-woocommerce-admin.php:280
+msgid "Custom label for each product weight"
+msgstr ""
+
+#: admin/class-cart-weight-for-woocommerce-admin.php:289
+msgid "This label will display on cart and checkout page for each product row."
+msgstr ""
+
+#: admin/class-cart-weight-for-woocommerce-admin.php:298
+msgid "Custom label for showcase notice on product detail page"
+msgstr ""
+
+#: admin/class-cart-weight-for-woocommerce-admin.php:307
+msgid ""
+"This label will display on product detail page after adding the product to the cart."
+msgstr ""
+
+#: admin/class-cart-weight-for-woocommerce-admin.php:317
+msgid "Save Changes"
+msgstr ""
+
+#: admin/partials/cwfw-plugin-get-started.php:10
+msgid "Thanks For Installing Cart Weight for WooCommerce"
+msgstr ""
+
+#: admin/partials/cwfw-plugin-get-started.php:15
+#: admin/partials/header/plugin-header.php:79
+msgid "Getting Started"
+msgstr ""
+
+#: admin/partials/cwfw-plugin-get-started.php:16
+msgid ""
+"You can track your total cart weight during the checkout process. Once any product "
+"added to the cart it \n"
+"                        will show the total cart weight to get the idea of how much "
+"weight of the order is."
+msgstr ""
+
+#: admin/partials/cwfw-plugin-get-started.php:19
+msgid "Step 1: "
+msgstr ""
+
+#: admin/partials/cwfw-plugin-get-started.php:20
+msgid ""
+"Global Settings for the admin to active/deactivate the plugin functionality and admin "
+"can change the default text labels as per business need."
+msgstr ""
+
+#: admin/partials/cwfw-plugin-get-started.php:24
+msgid "Step 2: "
+msgstr ""
+
+#: admin/partials/cwfw-plugin-get-started.php:25
+msgid ""
+"We can see the weight for each product in cart \n"
+"\t\t                    page and if the product is virtual then, does not display the "
+"weight."
+msgstr ""
+
+#: admin/partials/cwfw-plugin-get-started.php:30
+msgid "Step 3: "
+msgstr ""
+
+#: admin/partials/cwfw-plugin-get-started.php:31
+msgid "On checkout page display the same information based on selected product quantity."
+msgstr ""
+
+#: admin/partials/cwfw-plugin-get-started.php:35
+msgid "Step 4: "
+msgstr ""
+
+#: admin/partials/cwfw-plugin-get-started.php:36
+msgid ""
+"Once any product added in the cart then, it will \n"
+"\t\t                    display the cart notice with total weight added in the cart."
+msgstr ""
+
+#: admin/partials/cwfw-plugin-get-started.php:41
+msgid "Step 5: "
+msgstr ""
+
+#: admin/partials/cwfw-plugin-get-started.php:42
+msgid "Once place the order it will display the order detail with weight information."
+msgstr ""
+
+#: admin/partials/cwfw-plugin-get-started.php:46
+msgid "Step 6: "
+msgstr ""
+
+#: admin/partials/cwfw-plugin-get-started.php:47
+msgid "Admin can see the order detail with product and total cart weight."
+msgstr ""
+
+#: admin/partials/cwfw-plugin-get-started.php:51
+msgid "Step 7: "
+msgstr ""
+
+#: admin/partials/cwfw-plugin-get-started.php:52
+msgid "User will also get an email with total cart weight information."
+msgstr ""
+
+#: admin/partials/cwfw-plugin-quick-info.php:9 admin/partials/header/plugin-header.php:84
+msgid "Quick info"
+msgstr ""
+
+#: admin/partials/cwfw-plugin-quick-info.php:13
+msgid "Product Type"
+msgstr ""
+
+#: admin/partials/cwfw-plugin-quick-info.php:14
+msgid "WordPress Plugin"
+msgstr ""
+
+#: admin/partials/cwfw-plugin-quick-info.php:17
+msgid "Product Name"
+msgstr ""
+
+#: admin/partials/cwfw-plugin-quick-info.php:21
+msgid "Installed Version"
+msgstr ""
+
+#: admin/partials/cwfw-plugin-quick-info.php:25
+msgid "License & Terms of use"
+msgstr ""
+
+#: admin/partials/cwfw-plugin-quick-info.php:26
+msgid "Click here"
+msgstr ""
+
+#: admin/partials/cwfw-plugin-quick-info.php:26
+msgid " to view license and terms of use."
+msgstr ""
+
+#: admin/partials/cwfw-plugin-quick-info.php:29
+msgid "Help & Support"
+msgstr ""
+
+#: admin/partials/cwfw-plugin-quick-info.php:33
+msgid "Quick Start Guide"
+msgstr ""
+
+#: admin/partials/cwfw-plugin-quick-info.php:34
+msgid "Documentation"
+msgstr ""
+
+#: admin/partials/cwfw-plugin-quick-info.php:36
+msgid "Support Forum"
+msgstr ""
+
+#: admin/partials/cwfw-plugin-quick-info.php:41
+msgid "Localization"
+msgstr ""
+
+#: admin/partials/cwfw-plugin-quick-info.php:42
+msgid "English"
+msgstr ""
+
+#: admin/partials/header/plugin-header.php:21
+msgid "Free Version "
+msgstr ""
+
+#: admin/partials/header/plugin-header.php:21
+msgid "1.0.0"
+msgstr ""
+
+#: admin/partials/header/plugin-header.php:69
+#: includes/class-cart-weight-for-woocommerce.php:217
+msgid "Settings"
+msgstr ""
+
+#: admin/partials/header/plugin-header.php:74
+msgid "About Plugin"
+msgstr ""
+
+#: admin/partials/header/plugin-header.php:90
+msgid "Dotstore"
+msgstr ""
+
+#: admin/partials/header/plugin-header.php:93
+msgid "WooCommerce Plugins"
+msgstr ""
+
+#: admin/partials/header/plugin-header.php:96
+msgid "Wordpress Plugins"
+msgstr ""
+
+#: admin/partials/header/plugin-header.php:99
+msgid "Contact Support"
+msgstr ""
+
+#: admin/partials/header/plugin-sidebar.php:10
+msgid "Important link"
+msgstr ""
+
+#: admin/partials/header/plugin-sidebar.php:16
+msgid "Plugin documentation"
+msgstr ""
+
+#: admin/partials/header/plugin-sidebar.php:21
+msgid "Support platform"
+msgstr ""
+
+#: admin/partials/header/plugin-sidebar.php:26
+msgid "Suggest A Feature"
+msgstr ""
+
+#: admin/partials/header/plugin-sidebar.php:31
+msgid "Changelog"
+msgstr ""
+
+#: admin/partials/header/plugin-sidebar.php:39
+msgid "OUR POPULAR PLUGINS"
+msgstr ""
+
+#: admin/partials/header/plugin-sidebar.php:45
+msgid "Advanced Flat Rate Shipping Method"
+msgstr ""
+
+#: admin/partials/header/plugin-sidebar.php:50
+msgid "Conditional Product Fees For WooCommerce Checkout"
+msgstr ""
+
+#: admin/partials/header/plugin-sidebar.php:55
+msgid "Advance Menu Manager"
+msgstr ""
+
+#: admin/partials/header/plugin-sidebar.php:59
+msgid "Enhanced Ecommerce Google Analytics for WooCommerce"
+msgstr ""
+
+#: admin/partials/header/plugin-sidebar.php:64
+msgid "Advanced Product Size Charts"
+msgstr ""
+
+#: admin/partials/header/plugin-sidebar.php:71
+msgid "VIEW ALL"
+msgstr ""
+
+#: cart-weight-for-woocommerce.php:92
+msgid "WooCommerce"
+msgstr ""
+
+#: cart-weight-for-woocommerce.php:97
+#, php-format
+msgid "%1$s is ineffective as it requires %2$s to be installed and active."
+msgstr ""
+
+#: public/class-cart-weight-for-woocommerce-public.php:89
+#: public/class-cart-weight-for-woocommerce-public.php:114
+msgid " "
+msgstr ""
